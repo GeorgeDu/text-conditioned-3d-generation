@@ -1,6 +1,20 @@
-# text-conditioned-3d-generation
+# Text-conditioned-3d-generation
 
 The page will maintain various algorithms on text-conditioned 3d content generation, from object, human to scene.
+
+* [Text-conditioned-3d-generation](#text-conditioned-3d-generation)
+    * [0. Surveys](#0-surveys)
+    * [1. Object](#1-object)
+        * [1.1 Text-conditioned 3D Object Generation](#11-text-conditioned-3d-object-generation)
+        * [1.2 Text-conditioned 3D Object Editing](#12-text-conditioned-3d-object-editing)
+    * [2. Scene](#2-scene)
+        * [2.1 Text-conditioned 3D Object Generation](#21-text-conditioned-3d-object-generation)
+        * [2.2 Text-conditioned 3D Scene Editing](#22-text-conditioned-3d-scene-editing)
+    * [3. Human](#3-human)
+        * [3.1 Text-conditioned 3D Human Generation](#31-text-conditioned-3d-human-generation)
+        * [3.2 Text-conditioned 3D Human Editing](#32-text-conditioned-3d-human-editing)
+    * [Datasets](#datasets)
+    * [Experts](#experts)
 
 ## 0. Surveys
 
