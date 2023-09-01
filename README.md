@@ -2,6 +2,12 @@
 
 The page will maintain various algorithms on text-conditioned 3d content generation, from object, human to scene.
 
+## 0. Surveys
+
+**[2023-arXiv]** Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era, [[paper](https://arxiv.org/pdf/2305.06131.pdf)]
+
+**[2023-arXiv]** Text-guided Image-and-Shape Editing and Generation: A Short Survey, [[paper](https://arxiv.org/pdf/2304.09244.pdf)]
+
 ## 1. Object
 
 ### 1.1 Text-conditioned 3D Object Generation
@@ -190,38 +196,150 @@ with Prior-guided Editing Field, [[paper](https://arxiv.org/pdf/2303.13277.pdf)]
 
 ### 2.1 Text-conditioned 3D Object Generation
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** Aladdin: Zero-Shot Hallucination of Stylized 3D Assets from Abstract Scene Descriptions, [[paper](https://arxiv.org/pdf/2306.06212.pdf)] [[project](https://github.com/ianhuang0630/Aladdin)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis, [[paper](https://arxiv.org/pdf/2303.14207.pdf)] [[project](https://tangjiapeng.github.io/projects/DiffuScene/)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** LayoutGPT: Compositional Visual Planning and
+Generation with Large Language Models, [[paper](https://arxiv.org/pdf/2305.15393.pdf)] [[project](https://github.com/weixi-feng/LayoutGPT)]
+
+**[2023-arXiv]** Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models, [[paper](https://arxiv.org/pdf/2303.11989.pdf)] [[project](https://lukashoel.github.io/text-to-room/)]
+
+**[2023-arXiv]** Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.11588.pdf)] [[project](https://eckertzhang.github.io/Text2NeRF.github.io/)]
+
+**[2023-arXiv]** Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback, [[paper](https://arxiv.org/pdf/2305.15808.pdf)]
+
+**[2023-arXiv]** Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes, [[paper](https://arxiv.org/pdf/2303.13450.pdf)]
+
+**[2023-arXiv]** Compositional 3D Scene Generation using Locally Conditioned Diffusion, [[paper](https://arxiv.org/pdf/2303.12218.pdf)] [[project](https://ryanpo.com/comp3d/)]
+
+**[2023-arXiv]** CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout, [[paper](https://arxiv.org/pdf/2303.13843.pdf)]
+
+**[2022-arXiv]** GAUDI: A Neural Architect for
+Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [[project](https://github.com/apple/ml-gaudi)]
+
+**[2020-arXiv]** SceneFormer: Indoor Scene Generation with Transformers, [[paper](https://arxiv.org/pdf/2012.09793.pdf)]
+
+**[2020-arXiv]** Static and Animated 3D Scene Generation from Free-form Text Descriptions, [[paper](https://arxiv.org/pdf/2010.01549.pdf)] [[project](https://github.com/oaishi/3DScene_from_text)]
+
+**[2017-arXiv]** SceneSeer: 3D Scene Design with Natural Language, [[paper](https://arxiv.org/pdf/1703.00050.pdf)]
+
+**[2017-arXiv]** SceneSuggest: Context-driven 3D Scene Design, [[paper](https://arxiv.org/pdf/1703.00061.pdf)]
+
+**[2015-arXiv]** Text to 3D Scene Generation with Rich Lexical Grounding, [[paper](https://arxiv.org/pdf/1505.06289.pdf)]
 
 ### 2.2 Text-conditioned 3D Scene Editing
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** CLIP3Dstyler: Language Guided 3D Arbitrary Neural Style Transfer, [[paper](https://arxiv.org/pdf/2305.15732.pdf)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** OR-NeRF: Object Removing from 3D Scenes Guided
+by Multiview Segmentation with Neural Radiance
+Fields, [[paper](https://arxiv.org/pdf/2305.10503.pdf)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** InpaintNeRF360: Text-Guided 3D Inpainting on
+Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)]
+
+**[2023-arXiv]** RoomDreamer: Text-Driven 3D Indoor Scene Synthesis with Coherent Geometry and Texture, [[paper](https://arxiv.org/pdf/2305.11337.pdf)]
+
+**[2023-arXiv]** CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding, [[paper](https://arxiv.org/pdf/2303.03565.pdf)]
+
+**[2023-arXiv]** SceneScape: Text-Driven Consistent Scene Generation, [[paper](https://arxiv.org/pdf/2302.01133.pdf)] [[project](https://scenescape.github.io/)]
+
+**[2023-arXiv]** Text-To-4D Dynamic Scene Generation, [[paper](https://arxiv.org/pdf/2301.11280.pdf)] [[project](https://make-a-video3d.github.io/)]
 
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** DreamHuman: Animatable 3D Avatars from Text, [[paper](https://arxiv.org/pdf/2306.09329.pdf)] [[project](https://dream-human.github.io/)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** TeCH: Text-guided Reconstruction of Lifelike Clothed Humans, [[paper](https://arxiv.org/pdf/2308.08545.pdf)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** Guide3D: Create 3D Avatars from Text and Image
+Guidance, [[paper](https://arxiv.org/pdf/2308.09705.pdf)]
+
+**[2023-arXiv]** Semantify: Simplifying the Control of 3D Morphable Models using CLIP, [[paper](https://arxiv.org/pdf/2308.07415.pdf)]
+
+**[2023-arXiv]** AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose, [[paper](https://arxiv.org/pdf/2308.03610.pdf)]
+
+**[2023-arXiv]** Articulated 3D Head Avatar Generation using
+Text-to-Image Diffusion Models, [[paper](https://arxiv.org/pdf/2307.04859.pdf)]
+
+**[2023-arXiv]** AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion, [[paper](https://arxiv.org/pdf/2307.06526.pdf)]
+
+**[2023-arXiv]** AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation, [[paper](https://arxiv.org/pdf/2306.09864.pdf)] [[project](https://zeng-yifei.github.io/avatarbooth_page/)]
+
+**[2023-arXiv]** Text-guided 3D Human Generation from 2D Collections, [[paper](https://arxiv.org/pdf/2305.14312.pdf)] [[project](https://text-3dh.github.io/)]
+
+**[2023-arXiv]** High-Fidelity 3D Face Generation from Natural Language Descriptions, [[paper](https://arxiv.org/pdf/2305.03302.pdf)]
+
+**[2023-arXiv]** DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models, [[paper](https://arxiv.org/pdf/2304.00916.pdf)] [[project](https://yukangcao.github.io/DreamAvatar/)]
+
+**[2023-arXiv]** DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance, [[paper](https://arxiv.org/pdf/2304.03117.pdf)] [[project](https://sites.google.com/view/dreamface)]
+
+**[2023-arXiv]** 3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion, [[paper](https://arxiv.org/pdf/2303.11938.pdf)]
+
+**[2023-arXiv]** StyleAvatar3D: Leveraging Image-Text Diffusion
+Models for High-Fidelity 3D Avatar Generation, [[paper](https://arxiv.org/pdf/2305.19012.pdf)] [[project](https://github.com/icoz69/StyleAvatar3D)]
+
+**[2023-arXiv]** AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control, [[paper](https://arxiv.org/pdf/2303.17606.pdf)] [[project](https://avatar-craft.github.io/)]
+
+**[2023-arXiv]** Zero-Shot Text-to-Parameter Translation for Game Character Auto-Creation, [[paper](https://arxiv.org/pdf/2303.01311.pdf)]
+
+**[2023-arXiv]** AlteredAvatar: Stylizing Dynamic 3D Avatars with Fast Style Adaptation, [[paper](https://arxiv.org/pdf/2305.19245.pdf)]
+
+**[2023-arXiv]** Text-Conditional Contextualized Avatars For Zero-Shot Personalization, [[paper](https://arxiv.org/pdf/2304.07410.pdf)]
+
+**[2023-arXiv]** Text2Face: A Multi-Modal 3D Face Model, [[paper](https://arxiv.org/pdf/2303.02688.pdf)]
+
+**[2023-arXiv]** Towards Realistic Generative 3D Face Models, [[paper](https://arxiv.org/pdf/2304.12483.pdf)] [[project](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/)]
 
 ### 3.2 Text-conditioned 3D Human Editing
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2307.11418.pdf)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** ClipFace: Text-guided Editing of Textured 3D Morphable Models, [[paper](https://arxiv.org/pdf/2212.01406.pdf)]
 
-**[2023-arXiv]** , [[paper]()] [[project]()]
+**[2023-arXiv]** AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars, [[paper](https://arxiv.org/pdf/2306.00547.pdf)]
 
+**[2023-arXiv]** Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions, [[paper](https://arxiv.org/pdf/2306.02903.pdf)]
+
+**[2023-arXiv]** Local 3D Editing via 3D Distillation of CLIP Knowledge, [[paper](https://arxiv.org/pdf/2306.12570.pdf)]
+
+**[2023-arXiv]** Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Mode, [[paper](https://arxiv.org/pdf/2306.09551.pdf)]
+
+**[2023-arXiv]** HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks, [[paper](https://arxiv.org/pdf/2304.09463.pdf)]
+
+**[2023-arXiv]** DreamWaltz: Make a Scene with Complex 3D Animatable Avatars, [[paper](https://arxiv.org/pdf/2305.12529.pdf)]
+
+**[2023-arXiv]** HeadSculpt: Crafting 3D Head Avatars with Text, [[paper](https://arxiv.org/pdf/2306.03038.pdf)] [[project](https://brandonhan.uk/HeadSculpt/)]
+
+**[2022-arXiv]** Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion, [[paper](https://arxiv.org/pdf/2212.06135.pdf)] [[project](https://3d-avatar-diffusion.microsoft.com/#/)]
+
+**[2022-arXiv]** AvatarGen: A 3D Generative Model for Animatable Human Avatar, [[paper](https://arxiv.org/pdf/2211.14589.pdf)] [[project](http://jeff95.me/projects/avatargen.html)]
+
+**[2022-arXiv]** AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars, [[paper](https://arxiv.org/pdf/2205.08535.pdf)] [[project](https://hongfz16.github.io/projects/AvatarCLIP.html)]
+
+**[2023-arXiv]** NeRF-Art: Text-Driven Neural Radiance Fields Stylization, [[paper](https://arxiv.org/pdf/2212.08070.pdf)] [[project](https://cassiepython.github.io/nerfart/)]
+
+**[2023-arXiv]** Text and Image Guided 3D Avatar Generation and Manipulation, [[paper](https://arxiv.org/pdf/2202.06079.pdf)] [[project](https://catlab-team.github.io/latent3D/)]
+<br>
+
+## Datasets
+
+**[2023-arXiv]** Objaverse-XL: A Universe of 10M+ 3D Objects, [[paper](https://objaverse.allenai.org/objaverse-xl-paper.pdf)]
+
+**[2023-arXiv]** Infinite Photorealistic Worlds using Procedural Generation, [[paper](https://arxiv.org/pdf/2306.09310.pdf)] [[project](https://infinigen.org/)]
+
+**[2023-arXiv]** Scalable 3D Captioning with Pretrained Models, [[paper](https://arxiv.org/pdf/2306.07279.pdf)] [[project](https://huggingface.co/datasets/tiange/Cap3D)]
+
+**[2023-arXiv]** UniG3D: A Unified 3D Object Generation Dataset, [[paper](https://arxiv.org/pdf/2306.10730.pdf)] [[project](https://unig3d.github.io/)]
+
+**[2023-arXiv]** OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation, [[paper](https://arxiv.org/pdf/2301.07525.pdf)] [[project](https://omniobject3d.github.io/)]
+
+**[2023-arXiv]** Objaverse: A Universe of Annotated 3D Objects, [[paper](https://arxiv.org/pdf/2212.08051.pdf)] [[project](https://objaverse.allenai.org/)]
+
+**[2023-arXiv]** RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars, [[paper](https://arxiv.org/pdf/2305.13353.pdf)] [[project](https://renderme-360.github.io/)]
 <br>
 
 ## Experts
