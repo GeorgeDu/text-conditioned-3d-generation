@@ -18,6 +18,8 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ## 0. Surveys
 
+**[2023-arXIv]** AIGC for Various Data Modalities: A Survey, [[paper](https://arxiv.org/pdf/2308.14177.pdf)]
+
 **[2023-arXiv]** Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era, [[paper](https://arxiv.org/pdf/2305.06131.pdf)]
 
 **[2023-arXiv]** Text-guided Image-and-Shape Editing and Generation: A Short Survey, [[paper](https://arxiv.org/pdf/2304.09244.pdf)]
@@ -25,6 +27,12 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 ## 1. Object
 
 ### 1.1 Text-conditioned 3D Object Generation
+
+**[2023-arXiv]** HOLOFUSION: Towards Photo-realistic 3D Generative Modeling, [[paper](https://arxiv.org/pdf/2308.14244.pdf)]
+
+**[2023-arXiv]** EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior, [[paper]https://arxiv.org/pdf/2308.13223.pdf)]
+
+**[2023-arXiv]** MVDream: Multi-view Diffusion for 3D Generation, [[paper](https://arxiv.org/pdf/2308.16512.pdf)] [[project](https://mv-dream.github.io/)]
 
 **[2023-arXiv]** One-2-3-45: Any Single Image to 3D Mesh in 45
 Seconds without Per-Shape Optimization, [[paper](https://arxiv.org/pdf/2306.16928.pdf)] [[project](https://one-2-3-45.github.io/)]
@@ -244,6 +252,8 @@ Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [
 
 ### 2.2 Text-conditioned 3D Scene Editing
 
+**[2023-arXiv]** Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details, [[paper](https://arxiv.org/pdf/2308.16880.pdf)]
+
 **[2023-arXiv]** CLIP3Dstyler: Language Guided 3D Arbitrary Neural Style Transfer, [[paper](https://arxiv.org/pdf/2305.15732.pdf)]
 
 **[2023-arXiv]** OR-NeRF: Object Removing from 3D Scenes Guided
@@ -264,6 +274,8 @@ Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
+
+**[2023-arXiv]** Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images, [[paper](https://arxiv.org/pdf/2308.16758.pdf)]
 
 **[2023-arXiv]** DreamHuman: Animatable 3D Avatars from Text, [[paper](https://arxiv.org/pdf/2306.09329.pdf)] [[project](https://dream-human.github.io/)]
 
