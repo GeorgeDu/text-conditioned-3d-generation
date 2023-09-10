@@ -2,19 +2,19 @@
 
 The page will maintain various algorithms on text-conditioned 3d content generation, from object, human to scene.
 
-* [Text-conditioned-3d-generation](#text-conditioned-3d-generation)
-    * [0. Surveys](#0-surveys)
-    * [1. Object](#1-object)
-        * [1.1 Text-conditioned 3D Object Generation](#11-text-conditioned-3d-object-generation)
-        * [1.2 Text-conditioned 3D Object Editing](#12-text-conditioned-3d-object-editing)
-    * [2. Scene](#2-scene)
-        * [2.1 Text-conditioned 3D Object Generation](#21-text-conditioned-3d-object-generation)
-        * [2.2 Text-conditioned 3D Scene Editing](#22-text-conditioned-3d-scene-editing)
-    * [3. Human](#3-human)
-        * [3.1 Text-conditioned 3D Human Generation](#31-text-conditioned-3d-human-generation)
-        * [3.2 Text-conditioned 3D Human Editing](#32-text-conditioned-3d-human-editing)
-    * [Datasets](#datasets)
-    * [Experts](#experts)
+- [Text-conditioned-3d-generation](#text-conditioned-3d-generation)
+  - [0. Surveys](#0-surveys)
+  - [1. Object](#1-object)
+    - [1.1 Text-conditioned 3D Object Generation](#11-text-conditioned-3d-object-generation)
+    - [1.2 Text-conditioned 3D Object Editing](#12-text-conditioned-3d-object-editing)
+  - [2. Scene](#2-scene)
+    - [2.1 Text-conditioned 3D Object Generation](#21-text-conditioned-3d-object-generation)
+    - [2.2 Text-conditioned 3D Scene Editing](#22-text-conditioned-3d-scene-editing)
+  - [3. Human](#3-human)
+    - [3.1 Text-conditioned 3D Human Generation](#31-text-conditioned-3d-human-generation)
+    - [3.2 Text-conditioned 3D Human Editing](#32-text-conditioned-3d-human-editing)
+  - [Datasets](#datasets)
+  - [Experts](#experts)
 
 ## 0. Surveys
 
@@ -28,9 +28,13 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following, [[paper](https://arxiv.org/pdf/2309.00615.pdf)] [[project](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)]
+
+**[2023-arXiv]** Chasing Consistency in Text-to-3D Generation from a Single Image, [[paper](https://arxiv.org/pdf/2309.03599.pdf)]
+
 **[2023-arXiv]** HOLOFUSION: Towards Photo-realistic 3D Generative Modeling, [[paper](https://arxiv.org/pdf/2308.14244.pdf)]
 
-**[2023-arXiv]** EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior, [[paper]https://arxiv.org/pdf/2308.13223.pdf)]
+**[2023-arXiv]** EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior, [[paper](https://arxiv.org/pdf/2308.13223.pdf)]
 
 **[2023-arXiv]** MVDream: Multi-view Diffusion for 3D Generation, [[paper](https://arxiv.org/pdf/2308.16512.pdf)] [[project](https://mv-dream.github.io/)]
 
@@ -274,6 +278,8 @@ Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
+
+**[2023-arXiv]** Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model, [[paper](https://arxiv.org/pdf/2309.03550.pdf)] [[project](https://text2control3d.github.io/)]
 
 **[2023-arXiv]** Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images, [[paper](https://arxiv.org/pdf/2308.16758.pdf)]
 
