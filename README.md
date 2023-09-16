@@ -28,6 +28,8 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-ICCVW]** Looking at words and points with attention: a benchmark for text-to-shape coherence, [[paper](https://arxiv.org/pdf/2309.07917.pdf)]
+
 **[2023-arXiv]** Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following, [[paper](https://arxiv.org/pdf/2309.00615.pdf)] [[project](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)]
 
 **[2023-arXiv]** Chasing Consistency in Text-to-3D Generation from a Single Image, [[paper](https://arxiv.org/pdf/2309.03599.pdf)]
@@ -256,6 +258,8 @@ Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [
 
 ### 2.2 Text-conditioned 3D Scene Editing
 
+**[2023-arXiv]** Text-driven Editing of 3D Scenes without Retraining, [[paper](https://arxiv.org/pdf/2309.04917.pdf)] [[project](http://sk-fun.fun/DN2N/)]
+
 **[2023-arXiv]** Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details, [[paper](https://arxiv.org/pdf/2308.16880.pdf)]
 
 **[2023-arXiv]** CLIP3Dstyler: Language Guided 3D Arbitrary Neural Style Transfer, [[paper](https://arxiv.org/pdf/2305.15732.pdf)]
@@ -278,6 +282,8 @@ Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
+
+**[2023-arXiv]** TECA: Text-Guided Generation and Editing of Compositional 3D Avatars, [[paper](https://arxiv.org/pdf/2309.07125.pdf)] [[project](https://yfeng95.github.io/teca/)]
 
 **[2023-arXiv]** Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model, [[paper](https://arxiv.org/pdf/2309.03550.pdf)] [[project](https://text2control3d.github.io/)]
 
