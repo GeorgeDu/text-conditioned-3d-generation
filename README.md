@@ -28,6 +28,16 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D, [[paper](https://browse.arxiv.org/pdf/2310.02596.pdf)] [[project](https://sweetdreamer3d.github.io/)]
+
+**[2023-arXiv]** TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields, [[paper](https://browse.arxiv.org/pdf/2309.17175.pdf)] [[project](https://tyhuang0428.github.io/textfield3d.html)]
+
+**[2023-arXiv]** DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation, [[paper](https://arxiv.org/pdf/2309.16653.pdf)] [[project](https://dreamgaussian.github.io/]
+
+**[2023-arXiv]** Text-to-3D using Gaussian Splatting, [[paper](https://arxiv.org/pdf/2309.16585.pdf)] [[project](https://gsgen3d.github.io/)]
+
+**[2023-arXiv]** Progressive Text-to-3D Generation for Automatic 3D Prototyping, [[paper](https://arxiv.org/pdf/2309.14600.pdf)]
+
 **[2023-ICCVW]** Looking at words and points with attention: a benchmark for text-to-shape coherence, [[paper](https://arxiv.org/pdf/2309.07917.pdf)]
 
 **[2023-arXiv]** Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following, [[paper](https://arxiv.org/pdf/2309.00615.pdf)] [[project](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)]
@@ -169,6 +179,8 @@ Language by Learning Joint Embeddings, [[paper](https://arxiv.org/pdf/1803.08495
 
 ### 1.2 Text-conditioned 3D Object Editing
 
+**[2023-arXiv]** ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models, [[paper](https://arxiv.org/pdf/2309.14872.pdf)]
+
 **[2023-arXiv]** InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions, [[paper](https://arxiv.org/pdf/2306.07154.pdf)]
 
 **[2023-arXiv]** FocalDreamer: Text-driven 3D Editing via Focal-fusion Assembly, [[paper](https://arxiv.org/pdf/2308.10608.pdf)] [[project](https://focaldreamer.github.io/)]
@@ -224,6 +236,8 @@ with Prior-guided Editing Field, [[paper](https://arxiv.org/pdf/2303.13277.pdf)]
 
 ### 2.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints, [[paper](https://browse.arxiv.org/pdf/2310.03602.pdf)]
+
 **[2023-arXiv]** Aladdin: Zero-Shot Hallucination of Stylized 3D Assets from Abstract Scene Descriptions, [[paper](https://arxiv.org/pdf/2306.06212.pdf)] [[project](https://github.com/ianhuang0630/Aladdin)]
 
 **[2023-arXiv]** DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis, [[paper](https://arxiv.org/pdf/2303.14207.pdf)] [[project](https://tangjiapeng.github.io/projects/DiffuScene/)]
@@ -258,6 +272,8 @@ Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [
 
 ### 2.2 Text-conditioned 3D Scene Editing
 
+**[2023-arXiv]** ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF, [[paper](https://browse.arxiv.org/pdf/2310.02712.pdf)]
+
 **[2023-arXiv]** Text-driven Editing of 3D Scenes without Retraining, [[paper](https://arxiv.org/pdf/2309.04917.pdf)] [[project](http://sk-fun.fun/DN2N/)]
 
 **[2023-arXiv]** Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details, [[paper](https://arxiv.org/pdf/2308.16880.pdf)]
@@ -282,6 +298,8 @@ Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
+
+**[2023-arXiv]** HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation, [[paper](https://browse.arxiv.org/pdf/2310.01406.pdf)] [[project](https://humannorm.github.io/)]
 
 **[2023-arXiv]** TECA: Text-Guided Generation and Editing of Compositional 3D Avatars, [[paper](https://arxiv.org/pdf/2309.07125.pdf)] [[project](https://yfeng95.github.io/teca/)]
 
@@ -364,6 +382,8 @@ Models for High-Fidelity 3D Avatar Generation, [[paper](https://arxiv.org/pdf/23
 <br>
 
 ## Datasets
+
+**[2023-arXiv]** T<sup>3</sup>Bench: Benchmarking Current Progress in Text-to-3D Generation, [[paper](https://browse.arxiv.org/pdf/2310.02977.pdf)] [[project](https://t3bench.com/)]
 
 **[2023-arXiv]** Objaverse-XL: A Universe of 10M+ 3D Objects, [[paper](https://objaverse.allenai.org/objaverse-xl-paper.pdf)]
 
