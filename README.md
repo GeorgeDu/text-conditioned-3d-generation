@@ -32,7 +32,7 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 **[2023-arXiv]** TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields, [[paper](https://browse.arxiv.org/pdf/2309.17175.pdf)] [[project](https://tyhuang0428.github.io/textfield3d.html)]
 
-**[2023-arXiv]** DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation, [[paper](https://arxiv.org/pdf/2309.16653.pdf)] [[project](https://dreamgaussian.github.io/]
+**[2023-arXiv]** DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation, [[paper](https://arxiv.org/pdf/2309.16653.pdf)] [[project](https://dreamgaussian.github.io/)]
 
 **[2023-arXiv]** Text-to-3D using Gaussian Splatting, [[paper](https://arxiv.org/pdf/2309.16585.pdf)] [[project](https://gsgen3d.github.io/)]
 
