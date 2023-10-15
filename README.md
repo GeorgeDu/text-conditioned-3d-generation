@@ -28,6 +28,14 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts, [[paper](https://arxiv.org/pdf/2310.05375.pdf)]
+
+**[2023-arXiv]** HiFi-123: Towards High-fidelity One Image to 3D Content Generation, [[paper](https://arxiv.org/pdf/2310.06744.pdf)] [[project](https://drexubery.github.io/HiFi-123/)]
+
+**[2023-arXiv]** Consistent123: Improve Consistency for One Image to 3D Object Synthesis, [[paper](https://arxiv.org/pdf/2310.08092.pdf)] [[project](https://consistent-123.github.io/)]
+
+**[2023-arXiv]** GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors, [[paper](https://arxiv.org/pdf/2310.08529.pdf)] [[project](https://taoranyi.com/gaussiandreamer/)]
+
 **[2023-arXiv]** SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D, [[paper](https://browse.arxiv.org/pdf/2310.02596.pdf)] [[project](https://sweetdreamer3d.github.io/)]
 
 **[2023-arXiv]** TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields, [[paper](https://browse.arxiv.org/pdf/2309.17175.pdf)] [[project](https://tyhuang0428.github.io/textfield3d.html)]
