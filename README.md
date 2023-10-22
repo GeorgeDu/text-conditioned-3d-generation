@@ -8,7 +8,7 @@ The page will maintain various algorithms on text-conditioned 3d content generat
     - [1.1 Text-conditioned 3D Object Generation](#11-text-conditioned-3d-object-generation)
     - [1.2 Text-conditioned 3D Object Editing](#12-text-conditioned-3d-object-editing)
   - [2. Scene](#2-scene)
-    - [2.1 Text-conditioned 3D Object Generation](#21-text-conditioned-3d-object-generation)
+    - [2.1 Text-conditioned 3D Scene Generation](#21-text-conditioned-3d-object-generation)
     - [2.2 Text-conditioned 3D Scene Editing](#22-text-conditioned-3d-scene-editing)
   - [3. Human](#3-human)
     - [3.1 Text-conditioned 3D Human Generation](#31-text-conditioned-3d-human-generation)
@@ -18,7 +18,9 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ## 0. Surveys
 
-**[2023-arXIv]** AIGC for Various Data Modalities: A Survey, [[paper](https://arxiv.org/pdf/2308.14177.pdf)]
+**[2023-arXiv]** State of the Art on Diffusion Models for Visual Computing, [[paper](https://arxiv.org/pdf/2310.07204.pdf)]
+
+**[2023-arXiv]** AIGC for Various Data Modalities: A Survey, [[paper](https://arxiv.org/pdf/2308.14177.pdf)]
 
 **[2023-arXiv]** Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era, [[paper](https://arxiv.org/pdf/2305.06131.pdf)]
 
@@ -27,6 +29,12 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 ## 1. Object
 
 ### 1.1 Text-conditioned 3D Object Generation
+
+**[2023-arXiv]** Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts, [[paper](https://arxiv.org/pdf/2310.11784.pdf)] [[project](https://cxh0519.github.io/projects/Progressive3D/)]
+
+**[2023-arXiv]** Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping, [[paper](https://arxiv.org/pdf/2310.12474.pdf)] [[project](https://github.com/fudan-zvg/PGC-3D)]
+
+**[2023-arXiv]** ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion, [[paper](https://arxiv.org/pdf/2310.10343.pdf)] [[project](https://jiayuyang.github.io/Consist_Net/)]
 
 **[2023-arXiv]** IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts, [[paper](https://arxiv.org/pdf/2310.05375.pdf)]
 
@@ -242,7 +250,11 @@ with Prior-guided Editing Field, [[paper](https://arxiv.org/pdf/2303.13277.pdf)]
 
 ## 2. Scene
 
-### 2.1 Text-conditioned 3D Object Generation
+### 2.1 Text-conditioned 3D Scene Generation
+
+**[2024-3DV]** RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation, [[paper](https://arxiv.org/pdf/2310.10027.pdf)] [[project](https://github.com/zhao-yiqun/RoomDesigner)]
+
+**[2023-arXiv]** 3D-GPT: Procedural 3D Modeling with Large Language Models, [[paper](https://arxiv.org/pdf/2310.12945.pdf)] [[project](https://chuny1.github.io/3DGPT/3dgpt.html)]
 
 **[2023-arXiv]** Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints, [[paper](https://browse.arxiv.org/pdf/2310.03602.pdf)]
 
@@ -279,6 +291,8 @@ Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [
 **[2015-arXiv]** Text to 3D Scene Generation with Rich Lexical Grounding, [[paper](https://arxiv.org/pdf/1505.06289.pdf)]
 
 ### 2.2 Text-conditioned 3D Scene Editing
+
+**[2023-arXiv]** ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context, [[paper](https://arxiv.org/pdf/2310.09965.pdf)] [[project](https://proteusnerf.github.io/)]
 
 **[2023-arXiv]** ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF, [[paper](https://browse.arxiv.org/pdf/2310.02712.pdf)]
 
@@ -359,6 +373,8 @@ Models for High-Fidelity 3D Avatar Generation, [[paper](https://arxiv.org/pdf/23
 **[2023-arXiv]** Towards Realistic Generative 3D Face Models, [[paper](https://arxiv.org/pdf/2304.12483.pdf)] [[project](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/)]
 
 ### 3.2 Text-conditioned 3D Human Editing
+
+**[2023-arXiv]** PaintHuman: Towards High-fidelity Text-to-3D Human Texturing via Denoised Score Distillation, [[paper](https://arxiv.org/pdf/2310.09458.pdf)]
 
 **[2023-arXiv]** FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2307.11418.pdf)]
 
