@@ -30,6 +30,14 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** Wonder3D: Single Image to 3D using Cross-Domain Diffusion, [[paper](https://arxiv.org/pdf/2310.15008.pdf)] [[project](https://www.xxlong.site/Wonder3D/)]
+
+**[2023-arXiv]** Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model, [[paper](https://arxiv.org/pdf/2310.15110.pdf)] [[project](https://github.com/SUDO-AI-3D/zero123plus)]
+
+**[2023-arXiv]** DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior, [[paper](https://arxiv.org/pdf/2310.16818.pdf)] [[project](https://github.com/deepseek-ai/DreamCraft3D)]
+
+**[2023-arXiv]** HyperFields: Towards Zero-Shot Generation of NeRFs from Text, [[paper](https://arxiv.org/pdf/2310.17075.pdf)]
+
 **[2023-arXiv]** Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts, [[paper](https://arxiv.org/pdf/2310.11784.pdf)] [[project](https://cxh0519.github.io/projects/Progressive3D/)]
 
 **[2023-arXiv]** Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping, [[paper](https://arxiv.org/pdf/2310.12474.pdf)] [[project](https://github.com/fudan-zvg/PGC-3D)]
@@ -195,6 +203,8 @@ Language by Learning Joint Embeddings, [[paper](https://arxiv.org/pdf/1803.08495
 
 ### 1.2 Text-conditioned 3D Object Editing
 
+**[2023-arXiv]** TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models, [[paper](https://arxiv.org/pdf/2310.13772.pdf)] [[project](https://research.nvidia.com/labs/toronto-ai/texfusion/)]
+
 **[2023-arXiv]** ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models, [[paper](https://arxiv.org/pdf/2309.14872.pdf)]
 
 **[2023-arXiv]** InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions, [[paper](https://arxiv.org/pdf/2306.07154.pdf)]
@@ -251,6 +261,10 @@ with Prior-guided Editing Field, [[paper](https://arxiv.org/pdf/2303.13277.pdf)]
 ## 2. Scene
 
 ### 2.1 Text-conditioned 3D Scene Generation
+
+**[2023-NeurIPS]** Language-driven Scene Synthesis using Multi-conditional Diffusion Model, [[paper](https://arxiv.org/pdf/2310.15948.pdf)] [[project](https://lang-scene-synth.github.io/)]
+
+**[2023-arXiv]** DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation, [[paper](https://arxiv.org/pdf/2310.13119.pdf)] [[project](https://ybbbbt.com/publication/dreamspace/)]
 
 **[2024-3DV]** RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation, [[paper](https://arxiv.org/pdf/2310.10027.pdf)] [[project](https://github.com/zhao-yiqun/RoomDesigner)]
 
