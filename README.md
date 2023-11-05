@@ -30,6 +30,10 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** Text-to-3D with Classifier Score Distillation, [[paper](https://arxiv.org/pdf/2310.19415.pdf)] [[project](https://xinyu-andy.github.io/Classifier-Score-Distillation/)]
+
+**[2023-arXiv]** Generative Neural Fields by Mixtures of Neural Implicit Functions, [[paper](https://arxiv.org/pdf/2310.19464.pdf)]
+
 **[2023-arXiv]** Wonder3D: Single Image to 3D using Cross-Domain Diffusion, [[paper](https://arxiv.org/pdf/2310.15008.pdf)] [[project](https://www.xxlong.site/Wonder3D/)]
 
 **[2023-arXiv]** Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model, [[paper](https://arxiv.org/pdf/2310.15110.pdf)] [[project](https://github.com/SUDO-AI-3D/zero123plus)]
