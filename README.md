@@ -30,6 +30,20 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-MM]** 3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models, [[paper](https://arxiv.org/pdf/2311.05464.pdf)] [[project](https://github.com/yanghb22-fdu/3DStyle-Diffusion-Official)]
+
+**[2023-arXiv]** Mesh Neural Cellular Automata, [[paper](https://arxiv.org/pdf/2311.02820.pdf)] [[project](https://meshnca.github.io/)]
+
+**[2023-arXiv]** Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video, [[paper](https://arxiv.org/pdf/2311.02848.pdf)] [[project](https://consistent4d.github.io/)]
+
+**[2023-MM]** Control3D: Towards Controllable Text-to-3D Generation, [[paper](https://arxiv.org/pdf/2311.05461.pdf)]
+
+**[2023-arXiv]** LRM: Large Reconstruction Model for Single Image to 3D, [[paper](https://arxiv.org/pdf/2311.04400.pdf)] [[project](https://yiconghong.me/LRM/)]
+
+**[2023-NeurIPS]** ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image, [[paper](https://arxiv.org/pdf/2311.05230.pdf)] [[project](https://www.senthilpurushwalkam.com/publication/conrad/)]
+
+**[2023-SIGGRAPHAsia&TOG]** EXIM: A Hybrid Explicit-Implicit Representation for Text-Guided 3D Shape Generation, [[paper](https://arxiv.org/pdf/2311.01714.pdf)] [[project](https://github.com/liuzhengzhe/EXIM)]
+
 **[2023-arXiv]** Text-to-3D with Classifier Score Distillation, [[paper](https://arxiv.org/pdf/2310.19415.pdf)] [[project](https://xinyu-andy.github.io/Classifier-Score-Distillation/)]
 
 **[2023-arXiv]** Generative Neural Fields by Mixtures of Neural Implicit Functions, [[paper](https://arxiv.org/pdf/2310.19464.pdf)]
@@ -188,6 +202,8 @@ using Pseudo-Observations from Diffusion Models, [[paper](https://arxiv.org/pdf/
 
 **[2018-arXiv]** Text2Shape: Generating Shapes from Natural
 Language by Learning Joint Embeddings, [[paper](https://arxiv.org/pdf/1803.08495.pdf)] [[project](https://github.com/kchen92/text2shape/)]
+
+**[2023-arXiv]** MixCon3D: Synergizing Multi-View and Cross-Modal Contrastive Learning for Enhancing 3D Representation, [[paper](https://arxiv.org/pdf/2311.01734.pdf)] [[project](https://github.com/UCSC-VLAA/MixCon3D)]
 
 **[2023-arXiv]** 3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models, [[paper](https://arxiv.org/pdf/2301.11445.pdf)] [[project](https://github.com/1zb/3DShape2VecSet)]
 
