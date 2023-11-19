@@ -30,6 +30,16 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion, [[paper](https://arxiv.org/pdf/2311.07885.pdf)] [[project](https://sudo-ai-3d.github.io/One2345plus_page/)]
+
+**[2023-arXiv]** DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model, [[paper](https://arxiv.org/pdf/2311.09217.pdf)] [[project](https://justimyhxu.github.io/projects/dmv3d/)]
+
+**[2023-arXiv]** Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model, [[paper](https://arxiv.org/pdf/2311.06214.pdf)] [[project](https://jiahao.ai/instant3d/)]
+
+**[2023-arXiv]** Instant3D: Instant Text-to-3D Generation, [[paper](https://arxiv.org/pdf/2311.08403.pdf)] [[project]https://ming1993li.github.io/Instant3DProj/)]
+
+**[2023-arXiv]** 3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation, [[paper](https://arxiv.org/pdf/2311.09571.pdf)] [[project](https://threedle.github.io/3d-paintbrush/)]
+
 **[2023-MM]** 3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models, [[paper](https://arxiv.org/pdf/2311.05464.pdf)] [[project](https://github.com/yanghb22-fdu/3DStyle-Diffusion-Official)]
 
 **[2023-arXiv]** Mesh Neural Cellular Automata, [[paper](https://arxiv.org/pdf/2311.02820.pdf)] [[project](https://meshnca.github.io/)]
