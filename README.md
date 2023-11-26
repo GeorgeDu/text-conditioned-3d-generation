@@ -30,13 +30,21 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise, [[paper](https://arxiv.org/pdf/2311.11221.pdf)]
+
+**[2023-arXiv]** FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation, [[paper](https://arxiv.org/pdf/2311.12090.pdf)]
+
+**[2023-arXiv]** LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching, [[paper](https://arxiv.org/pdf/2311.11284.pdf)] [[project](https://github.com/EnVision-Research/LucidDreamer)]
+
+**[2023-arXiv]** MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture, [[paper](https://arxiv.org/pdf/2311.10123.pdf)] [[project](https://metadreamer3d.github.io/)]
+
 **[2023-arXiv]** One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion, [[paper](https://arxiv.org/pdf/2311.07885.pdf)] [[project](https://sudo-ai-3d.github.io/One2345plus_page/)]
 
 **[2023-arXiv]** DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model, [[paper](https://arxiv.org/pdf/2311.09217.pdf)] [[project](https://justimyhxu.github.io/projects/dmv3d/)]
 
 **[2023-arXiv]** Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model, [[paper](https://arxiv.org/pdf/2311.06214.pdf)] [[project](https://jiahao.ai/instant3d/)]
 
-**[2023-arXiv]** Instant3D: Instant Text-to-3D Generation, [[paper](https://arxiv.org/pdf/2311.08403.pdf)] [[project]https://ming1993li.github.io/Instant3DProj/)]
+**[2023-arXiv]** Instant3D: Instant Text-to-3D Generation, [[paper](https://arxiv.org/pdf/2311.08403.pdf)] [[project](https://ming1993li.github.io/Instant3DProj/)]
 
 **[2023-arXiv]** 3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation, [[paper](https://arxiv.org/pdf/2311.09571.pdf)] [[project](https://threedle.github.io/3d-paintbrush/)]
 
@@ -233,6 +241,8 @@ Language by Learning Joint Embeddings, [[paper](https://arxiv.org/pdf/1803.08495
 
 ### 1.2 Text-conditioned 3D Object Editing
 
+**[2023-arXiv]** Text-Guided Texturing by Synchronized Multi-View Diffusion, [[paper](https://arxiv.org/pdf/2311.12891.pdf)]
+
 **[2023-arXiv]** TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models, [[paper](https://arxiv.org/pdf/2310.13772.pdf)] [[project](https://research.nvidia.com/labs/toronto-ai/texfusion/)]
 
 **[2023-arXiv]** ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models, [[paper](https://arxiv.org/pdf/2309.14872.pdf)]
@@ -291,6 +301,10 @@ with Prior-guided Editing Field, [[paper](https://arxiv.org/pdf/2303.13277.pdf)]
 ## 2. Scene
 
 ### 2.1 Text-conditioned 3D Scene Generation
+
+**[2023-arXiv]** Pyramid Diffusion for Fine 3D Large Scene Generation, [[paper](https://arxiv.org/pdf/2311.12085.pdf)] [[project](https://yuheng.ink/project-page/pyramid-discrete-diffusion/)]
+
+**[2023-arXiv]** LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes, [[paper](https://arxiv.org/pdf/2311.13384.pdf)]
 
 **[2023-NeurIPS]** Language-driven Scene Synthesis using Multi-conditional Diffusion Model, [[paper](https://arxiv.org/pdf/2310.15948.pdf)] [[project](https://lang-scene-synth.github.io/)]
 
@@ -364,6 +378,8 @@ Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
+
+**[2023-NeurIPS]** XAGen: 3D Expressive Human Avatars Generation, [[paper](https://arxiv.org/pdf/2311.13574.pdf)] [[project](https://showlab.github.io/xagen/)]
 
 **[2023-arXiv]** HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation, [[paper](https://browse.arxiv.org/pdf/2310.01406.pdf)] [[project](https://humannorm.github.io/)]
 
