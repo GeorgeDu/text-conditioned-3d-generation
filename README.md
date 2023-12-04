@@ -30,6 +30,26 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling, [[paper](https://arxiv.org/pdf/2311.17082.pdf)] [[project](https://github.com/alexzhou907/DreamPropeller)]
+
+**[2023-arXiv]** GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation, [[paper](https://arxiv.org/pdf/2311.17971.pdf)] [[project](https://mabaorui.github.io/GeoDream_page/)]
+
+**[2023-arXiv]** RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D, [[paper](https://arxiv.org/pdf/2311.16918.pdf)] [[project](https://lingtengqiu.github.io/RichDreamer/)]
+
+**[2023-arXiv]** ET3D: Efficient Text-to-3D Generation via Multi-View Distillation, [[paper](https://arxiv.org/pdf/2311.15561.pdf)]
+
+**[2023-arXiv]** Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion, [[paper](https://arxiv.org/pdf/2311.15980.pdf)] [[project](https://nju-3dv.github.io/projects/direct25/)]
+
+**[2023-arXiv]** Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning, [[paper](https://arxiv.org/pdf/2311.13617.pdf)]
+
+**[2023-arXiv]** MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation, [[paper](https://arxiv.org/pdf/2311.14494.pdf)] [[project](https://lizhiqi49.github.io/MVControl/)]
+
+**[2023-arXiv]** ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model, [[paper](https://arxiv.org/pdf/2311.17618.pdf)] [[project](https://github.com/OpenShapeLab/ShapeGPT)]
+
+**[2023-arXiv]** MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers, [[paper](https://arxiv.org/pdf/2311.15475.pdf)] [[project](https://nihalsid.github.io/mesh-gpt/)]
+
+**[2023-arXiv]** Surf-D: High-Quality Surface Generation for Arbitrary Topologies using Diffusion Models, [[paper](https://arxiv.org/pdf/2311.17050.pdf)] [[project](https://yzmblog.github.io/projects/SurfD/)]
+
 **[2023-arXiv]** GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise, [[paper](https://arxiv.org/pdf/2311.11221.pdf)]
 
 **[2023-arXiv]** FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation, [[paper](https://arxiv.org/pdf/2311.12090.pdf)]
@@ -241,6 +261,18 @@ Language by Learning Joint Embeddings, [[paper](https://arxiv.org/pdf/1803.08495
 
 ### 1.2 Text-conditioned 3D Object Editing
 
+**[2023-arXiv]** SPiC·E : Structural Priors in 3D Diffusion Models using Cross-Entity Attention, [[paper](https://arxiv.org/pdf/2311.17834.pdf)] [[project](https://tau-vailab.github.io/spic-e/)]
+
+**[2023-arXiv]** Posterior Distillation Sampling, [[paper](https://arxiv.org/pdf/2311.13831.pdf)] [[project](https://posterior-distillation-sampling.github.io/)]
+
+**[2023-arXiv]** EucliDreamer: Fast and High-Quality Texturing for 3D Models with Stable Diffusion Depth, [[paper](https://arxiv.org/pdf/2311.15573.pdf)]
+
+**[2023-arXiv]** GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions, [[paper](https://arxiv.org/pdf/2311.16037.pdf)] [[project](https://gaussianeditor.github.io/)]
+
+**[2023-arXiv]** GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting, [[paper](https://arxiv.org/pdf/2311.14521.pdf)] [[project](https://buaacyw.github.io/gaussian-editor/)]
+
+**[2023-arXiv]** Advances in 3D Neural Stylization: A Survey, [[paper](https://arxiv.org/pdf/2311.18328.pdf)]
+
 **[2023-arXiv]** Text-Guided Texturing by Synchronized Multi-View Diffusion, [[paper](https://arxiv.org/pdf/2311.12891.pdf)]
 
 **[2023-arXiv]** TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models, [[paper](https://arxiv.org/pdf/2310.13772.pdf)] [[project](https://research.nvidia.com/labs/toronto-ai/texfusion/)]
@@ -302,6 +334,14 @@ with Prior-guided Editing Field, [[paper](https://arxiv.org/pdf/2303.13277.pdf)]
 
 ### 2.1 Text-conditioned 3D Scene Generation
 
+**[2023-arXiv]** CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting, [[paper](https://arxiv.org/pdf/2311.17907.pdf)] [[project](https://asvilesov.github.io/CG3D/)]
+
+**[2023-arXiv]** 4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling, [[paper](https://arxiv.org/pdf/2311.17984.pdf)] [[project](https://sherwinbahmani.github.io/4dfy/)]
+
+**[2023-arXiv]** A Unified Approach for Text- and Image-guided 4D Scene Generation, [[paper](https://arxiv.org/pdf/2311.16854.pdf)]
+
+**[2023-arXiv]** Animate124: Animating One Image to 4D Dynamic Scene, [[paper](https://arxiv.org/pdf/2311.14603.pdf)] [[project](https://animate124.github.io/)]
+
 **[2023-arXiv]** Pyramid Diffusion for Fine 3D Large Scene Generation, [[paper](https://arxiv.org/pdf/2311.12085.pdf)] [[project](https://yuheng.ink/project-page/pyramid-discrete-diffusion/)]
 
 **[2023-arXiv]** LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes, [[paper](https://arxiv.org/pdf/2311.13384.pdf)]
@@ -335,6 +375,8 @@ Generation with Large Language Models, [[paper](https://arxiv.org/pdf/2305.15393
 
 **[2023-arXiv]** CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout, [[paper](https://arxiv.org/pdf/2303.13843.pdf)]
 
+**[2023-arXiv]** Text-To-4D Dynamic Scene Generation, [[paper](https://arxiv.org/pdf/2301.11280.pdf)] [[project](https://make-a-video3d.github.io/)]
+
 **[2022-arXiv]** GAUDI: A Neural Architect for
 Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [[project](https://github.com/apple/ml-gaudi)]
 
@@ -349,6 +391,8 @@ Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [
 **[2015-arXiv]** Text to 3D Scene Generation with Rich Lexical Grounding, [[paper](https://arxiv.org/pdf/1505.06289.pdf)]
 
 ### 2.2 Text-conditioned 3D Scene Editing
+
+**[2023-arXiv]** SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors, [[paper](https://arxiv.org/pdf/2311.17261.pdf)] [[project](https://daveredrum.github.io/SceneTex/)]
 
 **[2023-arXiv]** ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context, [[paper](https://arxiv.org/pdf/2310.09965.pdf)] [[project](https://proteusnerf.github.io/)]
 
@@ -373,11 +417,17 @@ Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)
 
 **[2023-arXiv]** SceneScape: Text-Driven Consistent Scene Generation, [[paper](https://arxiv.org/pdf/2302.01133.pdf)] [[project](https://scenescape.github.io/)]
 
-**[2023-arXiv]** Text-To-4D Dynamic Scene Generation, [[paper](https://arxiv.org/pdf/2301.11280.pdf)] [[project](https://make-a-video3d.github.io/)]
-
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
+
+**[2023-arXiv]** AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text, [[paper](https://arxiv.org/pdf/2311.17917.pdf)] [[project](http://jeff95.me/projects/avatarstudio.html)]
+
+**[2023-arXiv]** Gaussian Shell Maps for Efficient 3D Human Generation, [[paper](https://arxiv.org/pdf/2311.17857.pdf)] [[project](https://rameenabdal.github.io/GaussianShellMaps/)]
+
+**[2023-arXiv]** HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting, [[paper](https://arxiv.org/pdf/2311.17061.pdf)] [[project](https://alvinliu0.github.io/projects/HumanGaussian)]
+
+**[2023-arXiv]** Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images, [[paper](https://arxiv.org/pdf/2311.16499.pdf)] [[project](https://github.com/DanielSHKao/DeceptiveHuman)]
 
 **[2023-NeurIPS]** XAGen: 3D Expressive Human Avatars Generation, [[paper](https://arxiv.org/pdf/2311.13574.pdf)] [[project](https://showlab.github.io/xagen/)]
 
