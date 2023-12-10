@@ -30,6 +30,34 @@ The page will maintain various algorithms on text-conditioned 3d content generat
 
 ### 1.1 Text-conditioned 3D Object Generation
 
+**[2023-arXiv]** DreamComposer: Controllable 3D Object Generation via Multi-View Conditions, [[paper](https://arxiv.org/pdf/2312.03611.pdf)] [[project](https://yhyang-myron.github.io/DreamComposer/)]
+
+**[2023-arXiv]** AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation, [[paper](https://arxiv.org/pdf/2312.03795.pdf)] [[project](https://animatabledreamer.github.io/)]
+
+**[2023-arXiv]** X<sup>3</sup>: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies, [[paper](https://arxiv.org/pdf/2312.03806.pdf)] [[project](https://research.nvidia.com/labs/toronto-ai/xcube/)]
+
+**[2023-arXiv]** Doodle Your 3D: From Abstract Freehand Sketches to Precise 3D Shapes, [[paper](https://arxiv.org/pdf/2312.04043.pdf)] [[project](https://hmrishavbandy.github.io/doodle23d/)]
+
+**[2023-arXiv]** Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views, [[paper](https://arxiv.org/pdf/2312.04424.pdf)] [[project](https://cascadezero123.github.io/)]
+
+**[2023-arXiv]** GPT4Point: A Unified Framework for Point-Language Understanding and Generation, [[paper](https://arxiv.org/pdf/2312.02980.pdf)] [[project](https://gpt4point.github.io/)]
+
+**[2023-arXiv]** X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation, [[paper](https://arxiv.org/pdf/2312.00085.pdf)] [[project](https://xmu-xiaoma666.github.io/Projects/X-Dreamer/)]
+
+**[2023-arXiv]** ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation, [[paper](https://arxiv.org/pdf/2312.02201.pdf)] [[project](https://image-dream.github.io/)]
+
+**[2023-arXiv]** ControlDreamer: Stylized 3D Generation with Multi-View ControlNet, [[paper](https://arxiv.org/pdf/2312.01129.pdf)] [[project](https://controldreamer.github.io/)]
+
+**[2023-arXiv]** DiverseDream: Diverse Text-to-3D Synthesis with Augmented Text Embedding, [[paper](https://arxiv.org/pdf/2312.02192.pdf)]
+
+**[2023-arXiv]** StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D, [[paper](https://arxiv.org/pdf/2312.02189.pdf)]
+
+**[2023-arXiv]** LucidDreaming: Controllable Object-Centric 3D Generation, [[paper](https://arxiv.org/pdf/2312.00588.pdf)]
+
+**[2023-arXiv]** GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs, [[paper](https://arxiv.org/pdf/2312.00093.pdf)] [[project](https://graphdreamer.github.io/)]
+
+**[2023-SIGGRAPHAsia]** HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image, [[paper](https://arxiv.org/pdf/2312.04543.pdf)]
+
 **[2023-arXiv]** DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling, [[paper](https://arxiv.org/pdf/2311.17082.pdf)] [[project](https://github.com/alexzhou907/DreamPropeller)]
 
 **[2023-arXiv]** GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation, [[paper](https://arxiv.org/pdf/2311.17971.pdf)] [[project](https://mabaorui.github.io/GeoDream_page/)]
@@ -261,6 +289,12 @@ Language by Learning Joint Embeddings, [[paper](https://arxiv.org/pdf/1803.08495
 
 ### 1.2 Text-conditioned 3D Object Editing
 
+**[2023-arXiv]** Consistent Latent Diffusion for Mesh Texturing, [[paper](https://arxiv.org/pdf/2312.00971.pdf)]
+
+**[2023-arXiv]** TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes, [[paper](https://arxiv.org/pdf/2312.04248.pdf)]
+
+**[2023-arXiv]** Mesh-Guided Neural Implicit Field Editing, [[paper](https://arxiv.org/pdf/2312.02157.pdf)] [[project](https://cassiepython.github.io/MNeuEdit/)]
+
 **[2023-arXiv]** SPiC·E : Structural Priors in 3D Diffusion Models using Cross-Entity Attention, [[paper](https://arxiv.org/pdf/2311.17834.pdf)] [[project](https://tau-vailab.github.io/spic-e/)]
 
 **[2023-arXiv]** Posterior Distillation Sampling, [[paper](https://arxiv.org/pdf/2311.13831.pdf)] [[project](https://posterior-distillation-sampling.github.io/)]
@@ -392,6 +426,8 @@ Immersive 3D Scene Generation, [[paper](https://arxiv.org/pdf/2207.13751.pdf)] [
 
 ### 2.2 Text-conditioned 3D Scene Editing
 
+**[2023-arXiv]** Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training, [[paper](https://arxiv.org/pdf/2312.01663.pdf)] [[project](https://customnerf.github.io/)]
+
 **[2023-arXiv]** SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors, [[paper](https://arxiv.org/pdf/2311.17261.pdf)] [[project](https://daveredrum.github.io/SceneTex/)]
 
 **[2023-arXiv]** ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context, [[paper](https://arxiv.org/pdf/2310.09965.pdf)] [[project](https://proteusnerf.github.io/)]
@@ -420,6 +456,8 @@ Unbounded Neural Radiance Fields, [[paper](https://arxiv.org/pdf/2305.15094.pdf)
 ## 3. Human
 
 ### 3.1 Text-conditioned 3D Human Generation
+
+**[2023-arXiv]** Text-Guided 3D Face Synthesis - From Generation to Editing, [[paper](https://arxiv.org/pdf/2312.00375.pdf)] [[project](https://faceg2e.github.io/)]
 
 **[2023-arXiv]** AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text, [[paper](https://arxiv.org/pdf/2311.17917.pdf)] [[project](http://jeff95.me/projects/avatarstudio.html)]
 
